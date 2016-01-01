@@ -3,8 +3,8 @@ layout:     post
 title:      "hello,world"
 subtitle:   "github jekyll模板测试"
 date:       2015-01-15
-author:     "Beginman"
-header-img: "img/post-bg-alitrip.jpg"
+author:     "EricZhao"
+header-img: "img/home-bg.jpg"
 tags:
     - 测试
     - 杂文
