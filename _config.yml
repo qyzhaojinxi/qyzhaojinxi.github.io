@@ -2,7 +2,7 @@
 title: EricZhao's Blog
 SEOTitle: EricZhao的个人博客!
 header-img: img/bigshows/coding1.jpg
-email: xinxinyu2011@163.com
+email:  qyzhaojinxi@163.com
 description: "关于编程，EricZhao 的个人技术总结，读书笔记，心得等 | 这里是 @EricZhao 的个人博客，与君共勉。"
 keyword: "EricZhao, EricZhao, EricZhao Blog"
 url: "http://www.ericzhao.cn/"              # your host, for absolute URL
@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: true
-#weibo_username:     
+weibo_username:     zhaojinxi2011
 #zhihu_username:     beginman
 github_username:    qyzhaojinxi
 #twitter_username:  fpsir
